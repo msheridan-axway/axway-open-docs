@@ -29,7 +29,7 @@ To install the libary:
 ```
 sudo yum install libnsl
 ```
- 
+
 **Hardware prerequisites**:
 
 * Supports 64-bit Linux running on 64-bit hardware
