@@ -23,8 +23,9 @@ This section describes the operating system requirements for API Gateway.
 
 **Software prerequisites**:
 
-In CentOS 8 glibc no longer includes libnsl. This was included in CentOS 6 & 7 and is required by the API Gateway.
-To install the libary:
+In CentOS 8 `glibc` no longer includes `libnsl`. This was included in CentOS 6 and 7 and is required by the API Gateway.
+
+To install the library:
 
 ```
 sudo yum install libnsl
